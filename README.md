@@ -24,11 +24,7 @@ Sou professor de ensino técnico, focado(a) em criar soluções eficientes e apr
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikaraya&show_icons=true)
-
 ## 📫 Como me encontrar
-
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white Erik Alonso
 - LinkedIn: https://br.linkedin.com/in/erik-alonso-39a44314
 - E-mail: erik.souza@cps.sp.gov.br
