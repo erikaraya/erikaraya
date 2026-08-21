@@ -6,9 +6,9 @@ Sou professor de ensino técnico, focado(a) em criar soluções eficientes e apr
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalho com **JavaScript, Python e React Native**.
+- 🎓 Formado em Tecnologia da Informação com Ênfase em Negócios pela Fatec - Jundiaí.
 - 🌱 Estou aprendendo **Agentes de IA com CrewAI**.
-- 👯 Procuro colaborar em projetos de código aberto.
-- ⚡ Curiosidade: Groselha é melhor que café.
+- ⚡ Curiosidade: O primeiro computador eletrônico do mundo ocupava uma sala inteira de 167 metros quadrados e pesava cerca de 30 toneladas. Desde o surgimento do ENIAC em 1946, a tecnologia evoluiu a um ponto onde carregamos supercomputadores muito mais potentes no bolso!
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -25,6 +25,5 @@ Sou professor de ensino técnico, focado(a) em criar soluções eficientes e apr
 ---
 
 ## 📫 Como me encontrar
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) Erik Alonso
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white):https://br.linkedin.com/in/erik-alonso-39a44314
-![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white):erik.souza@cps.sp.gov.br
+LinkedIn :https://br.linkedin.com/in/erik-alonso-39a44314
+E-mail:erik.souza@cps.sp.gov.br
